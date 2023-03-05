@@ -1,0 +1,45 @@
+type: model
+authority-id: hbQUZdZvC6wiVncr32A09q79rYVyUyNb
+series: 16
+brand-id: hbQUZdZvC6wiVncr32A09q79rYVyUyNb
+model: ubuntu-core-22-kria-arm64
+architecture: arm64
+base: core22
+classic: false
+grade: dangerous
+snaps:
+  -
+    name: kria-kv260
+    type: gadget
+  -
+    name: zynqmp-kernel
+    type: kernel
+  -
+    default-channel: latest/edge
+    id: amcUKQILKXHHTlmSa7NMdnXSx02dNeeT
+    name: core22
+    type: base
+  -
+    default-channel: latest/stable
+    id: PMrrV4ml8uWuEUDBT8dSGnKUYbevVhc4
+    name: snapd
+    type: snapd
+  -
+    default-channel: latest/stable
+    id: hJmReLmgXSUj4SF7WhyTVRV6IzUa4QUZ
+    name: htop
+    type: app
+storage-safety: prefer-unencrypted
+timestamp: 2022-12-13T22:36:28+00:00
+sign-key-sha3-384: mdDZtqGdxPJ-AAGpMIXhKPH5qbKcfZXAXEH6KUVWKUdhQLTZHGRynhE7Dvrb1kXN
+
+AcLBcwQAAQoAHRYhBMsmkDxgdBbrxuFhSSNS9euKX5HnBQJjmP5+AAoJECNS9euKX5HnIBAP/0s7
+WgE/OHasvM2hWP+gDDAptRmfMQV48h0EYte3q/qizAtUoCK9H3+Rd7FfqYiz9BzQ4qqQEqp8ueiR
+R2ALcPjza8ohIFxPSdD8D5wfql3KCT79LE189pYkhoQCT1P1vLqHZE/BKB6BkEIqpOkIIi04FSKa
+7cVSW6FCg3tyhAhmPjib0LLqLFE9cMX+8e8Li1jGUH6wbnXUbqwYE3V0STaag1tP+MbppNE3+SBR
+T1acFr5VKHWDGw8tOmuzJ1U1wSGjCleuJMtAt6kqFifsVSykKLJ4qRJaurHnqaQ+aMsVV4ji63YB
+UWK2Kdb1VWKiOCJDxqGBP5kzCq7aRpfj2cY1+EvHeYL7NozZJxnxDFwdI49npv+54qhF0AgIL8Nr
++PBdoyazmkxC6Ff7+2VGLM0lim4+s2Pszgj99JxIbOaZT5/7i0Dfk791muEBNdfl3rhLARYJoHme
+p70Oy+CDecH4OYrMjI09nNl2+PXiuWLK8497wqz9myPYG6THDWDeH25zWfVIZdmS51mup8kcr1Mq
+RLIq+oINT1ycQV9R4A1WjOutvPWNV5cWsK0xcAU1e3esA0rprX6R/yLToFP6k/JfXw3bdoyWUkwh
+wigsQLBGb9vItkrDOOVF5lsKAh4a9uuuk4b7yaVi9OEKAbp2gtHSTvEjUHcf57QOc0m0g29X
